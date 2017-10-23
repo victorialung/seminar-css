@@ -29,6 +29,22 @@ li a{
     color: inherit;
 }
 
+header{
+    position: relative;
+}
+
 nav{
-    float: right;
+    position: absolute;
+    right: 5%;
+    top:50%;
+    transform:translateY(-50%) ;
+}
+
+section{
+    text-align: center;
+}
+
+div{
+    display: inline-block;
+    width:33%;
 }
