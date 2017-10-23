@@ -40,7 +40,9 @@ nav{
     right: 5%;
     top:50%;
     transform:translateY(-50%) ;
+    margin: 
 }
+
 
 section{
     text-align: center;
@@ -77,6 +79,14 @@ button{
     border-radius: 5px;
     border: 0px;
     font-weight: 600px;
+}
+
+.box-header ul li{
+    margin: 0px,15px;
+}
+
+.box-header ul li:hover{
+    color:#f9a91a;
 }
 
 
