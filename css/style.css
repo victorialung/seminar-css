@@ -4,6 +4,8 @@ body{
     margin:0;
     padding:0;
     color:#3030;
+    font-family: 'Raleway', sans-serif;
+    font-size: 
 }
 
 /*clases reutilizables*/
@@ -48,3 +50,18 @@ div{
     display: inline-block;
     width:33%;
 }
+
+.icon-camera:before {
+    content: "\e90f";
+    font-size: 20px;
+}
+.icon-envelop:before {
+    content: "\e945";
+    font-size: 20px;
+}
+.icon-display:before {
+    content: "\e956";
+    font-size: 20px;
+}
+
+

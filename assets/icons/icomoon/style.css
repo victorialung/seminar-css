@@ -26,13 +26,14 @@
 
 .icon-camera:before {
   content: "\e90f";
+  font-size: 20px;
 }
 .icon-envelop:before {
   content: "\e945";
+  font-size: 20px;
 }
 .icon-display:before {
   content: "\e956";
+  font-size: 20px;
 }
-.icon-mail3:before {
-  content: "\ea85";
-}
+
